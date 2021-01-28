@@ -458,4 +458,4 @@ function advanceQueue(){
     inProgress = false;
 }
 
-client.login('Nzg4ODc0NzY5OTM2Mjg1NzA3.X9p24Q.tEaPQd2S-LTOPod2-Rm6a-A2Jss')
+client.login(TOKEN)
